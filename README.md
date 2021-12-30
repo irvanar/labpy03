@@ -1,11 +1,10 @@
 # Looping (Perulangan)
 
 ## Latihan1
- 1
- 2
- 3
- 4
- 5
- 6
+* Soal
+ 1) Tampilkan *n* bilangan acak yang lebih kecil dari 0.5
+ 2) Nilai *n* di isi pada saat runtime
+ 3) Anda dapat mengkombinasikan *while* dan *for* untuk menyelesaikannya
+ 4) Gunakan fungsi _random()_ yang dapat di import terlebih dahulu
 ## Latihan2
 ## Program1
