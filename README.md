@@ -8,6 +8,7 @@
 * Gunakan fungsi *random()* yang dapat di import terlebih dahulu
 -----------
 ### Syntax Latihan1
+
 '''Python
 print ("Masukan Nilai N: 5")
 import random
@@ -19,6 +20,7 @@ for x in range(jumlah):
     print("Data Ke : ",a,"==>",i)
 print("Selesai")
 '''
+
 ### Penjelasan
 
 -----------
