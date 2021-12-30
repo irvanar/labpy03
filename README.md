@@ -19,12 +19,7 @@ for x in range(jumlah):
     print("Data Ke : ",a,"==>",i)
 print("Selesai")
 ```
-### Penjelasan
-* ```python``print```berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
-* ```python``import``` fungsi lanjut yang dipanggil oleh statement import.
-* ```python``random``` untuk menentukan suatu pilihan.
-* ```python``range``` merupakan fungsi yang menghasilkan list. Fungsi ini akan menciptakan sebuah list baru dengan rentang nilai tertentu.
-* ```python``uniform``` digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
+
 -----------
 ## Latihan2
 ### [Latihan2.py](https://github.com/irvanar/labpy03/blob/main/Latihan2.py)
@@ -43,7 +38,6 @@ while True:
         break
 print("Bilangan Terbesar adalah :",max)
 ```
-### Penjelasan
 
 -----------
 ## Program1
@@ -78,6 +72,6 @@ for x in range(1,9):
 total = b+b+c+c+d+d+e
 print("\nTotal : ",total)
 ```
-### Penjelasan
-
+### Hasil
+[![Latihan1](https://user-images.githubusercontent.com/84762007/147786313-155040e2-67d4-498b-9d96-b9990a281a00.png)]
 -----------
