@@ -20,11 +20,11 @@ for x in range(jumlah):
 print("Selesai")
 ```
 ### Penjelasan
-* "print" : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
-* "import" : fungsi lanjut yang dipanggil oleh statement import.
-* "random" : untuk menentukan suatu pilihan.
-* "range" : merupakan fungsi yang menghasilkan list. Fungsi ini akan menciptakan sebuah list baru dengan rentang nilai tertentu.
-* "uniform": digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
+* ```print```berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
+* ```import``` fungsi lanjut yang dipanggil oleh statement import.
+* ```random``` untuk menentukan suatu pilihan.
+* ```range``` merupakan fungsi yang menghasilkan list. Fungsi ini akan menciptakan sebuah list baru dengan rentang nilai tertentu.
+* ```uniform``` digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
 -----------
 ## Latihan2
 ### [Latihan2.py](https://github.com/irvanar/labpy03/blob/main/Latihan2.py)
