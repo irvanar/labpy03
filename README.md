@@ -17,7 +17,7 @@
 * Buat repository baru labpy03 
 * Masukkan *latihan1.py* dan *latihan2.py* ke dalam repository. 
 * Buat program sederhana dengan perulangan: *program1.py*
-\Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya. 
+\Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya.\
 * Buat file **README.md**, yang berisi penjelasan alur algoritma program latihan1.py, latihan2.py, dan program1.py beserta screenshot hasilnya. 5.	kemudian commit dan push ke repository (github) 
 * Kirim url repository ke classroom. 
 -----------
