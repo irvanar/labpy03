@@ -7,8 +7,9 @@
 * Anda dapat mengkombinasikan **while** dan **for** untuk menyelesaikannya
 * Gunakan fungsi *random()* yang dapat di import terlebih dahulu
 -----------
-
-'''print ("Masukan Nilai N: 5")
+### Syntax Latihan1
+'''Python
+print ("Masukan Nilai N: 5")
 import random
 jumlah = 5
 a = 0
@@ -17,7 +18,8 @@ for x in range(jumlah):
     a+=1
     print("Data Ke : ",a,"==>",i)
 print("Selesai")
-
+'''
+### Penjelasan
 
 -----------
 ## Latihan2
