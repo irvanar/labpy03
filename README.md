@@ -19,6 +19,8 @@ for x in range(jumlah):
     print("Data Ke : ",a,"==>",i)
 print("Selesai")
 ```
+### Hasil
+![Latihan1](https://user-images.githubusercontent.com/84762007/147786313-155040e2-67d4-498b-9d96-b9990a281a00.png)
 
 -----------
 ## Latihan2
@@ -38,6 +40,8 @@ while True:
         break
 print("Bilangan Terbesar adalah :",max)
 ```
+### Hasil
+![Latihan2](https://user-images.githubusercontent.com/84762007/147786407-4f322dac-6bf6-4b4c-98a4-ab28ac7547c1.png)
 
 -----------
 ## Program1
@@ -73,5 +77,6 @@ total = b+b+c+c+d+d+e
 print("\nTotal : ",total)
 ```
 ### Hasil
-[![Latihan1](https://user-images.githubusercontent.com/84762007/147786313-155040e2-67d4-498b-9d96-b9990a281a00.png)]
+![Program1](https://user-images.githubusercontent.com/84762007/147786437-d130e72b-fcb5-42ef-9c05-63cc5843ac11.png)
+
 -----------
