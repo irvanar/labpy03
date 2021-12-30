@@ -41,6 +41,7 @@ while True:
 print("Bilangan Terbesar adalah :",max)
 ```
 ### Hasil
+![image](https://user-images.githubusercontent.com/84762007/147787005-a6c81ac2-f149-4a87-ab9e-caa23736494c.png)
 
 -----------
 ## Program1
@@ -76,5 +77,6 @@ total = b+b+c+c+d+d+e
 print("\nTotal : ",total)
 ```
 ### Hasil
+![image](https://user-images.githubusercontent.com/84762007/147787037-4529d1af-cc57-4831-b854-9719b3ccfb1a.png)
 
 -----------
