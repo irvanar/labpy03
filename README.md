@@ -20,7 +20,7 @@ for x in range(jumlah):
 print("Selesai")
 ```
 ### Hasil
-![image](https://user-images.githubusercontent.com/84762007/147786950-127efb88-98b8-4444-89f2-75e2035a2bca.png)
+![image](https://user-images.githubusercontent.com/84762007/147787222-6120aa08-d014-4742-9369-b274b30bf2b3.png)
 
 -----------
 ## Latihan2
@@ -41,7 +41,7 @@ while True:
 print("Bilangan Terbesar adalah :",max)
 ```
 ### Hasil
-![image](https://user-images.githubusercontent.com/84762007/147787005-a6c81ac2-f149-4a87-ab9e-caa23736494c.png)
+![image](https://user-images.githubusercontent.com/84762007/147787270-2f0ac361-572f-4c58-b310-be3d10794b65.png)
 
 -----------
 ## Program1
@@ -77,6 +77,6 @@ total = b+b+c+c+d+d+e
 print("\nTotal : ",total)
 ```
 ### Hasil
-![image](https://user-images.githubusercontent.com/84762007/147787037-4529d1af-cc57-4831-b854-9719b3ccfb1a.png)
+![Uploading image.png…]()
 
 -----------
