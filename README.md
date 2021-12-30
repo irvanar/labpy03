@@ -20,7 +20,7 @@ for x in range(jumlah):
 print("Selesai")
 ```
 ### Penjelasan
-* ```print```berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
+* ```print```berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks. section
 * ```import``` fungsi lanjut yang dipanggil oleh statement import.
 * ```random``` untuk menentukan suatu pilihan.
 * ```range``` merupakan fungsi yang menghasilkan list. Fungsi ini akan menciptakan sebuah list baru dengan rentang nilai tertentu.
@@ -34,7 +34,7 @@ print("Selesai")
 
 ### Syntax Latihan2
 ```Python
-pmax=0
+max=0
 while True:
     a=int(input("Masukan Bilangan : "))
     if max < a:
