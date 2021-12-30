@@ -77,6 +77,6 @@ total = b+b+c+c+d+d+e
 print("\nTotal : ",total)
 ```
 ### Hasil
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/84762007/147787467-b0d449a0-c4f3-48bd-83e7-88cd34fd1f95.png)
 
 -----------
